@@ -1,14 +1,14 @@
 # Hello, I'm Abhishek Kumar! 👋
 I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and explore in the related fields.<br><br>
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 <br>
-# Skills:
+## Skills:
 ML Algorithms,Prompt Engineering, Python Libraries,Analytical Skills,Problem Solving<br>Languages: Proficient in Python, Java, HTML, CSS, JS, SQL, C<br>Tools: Git, VS Code, Jupyter Notebook, Excel, Tableau, PowerBI<br><br>
-# 🌟 Projects :
+## 🌟 Projects :
 <br>
 >> Verdant.Ai : A real-time Agro-based dashboard for recommending the Fertilizer using Soil-data <br>& predicting the plant Diseases based on Image Processing using Python Libraries.<br>
 >> Net-Mirror : A Web-based movies & Shows reviewing system.<br><br>
-#📫 Contact Me
+##📫 Contact Me
 <br>
 Email: absk.devopsmastero@gmail.com<br>
 LinkedIn: (https://www.linkedin.com/in/absk-kr)<br>
