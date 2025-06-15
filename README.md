@@ -7,7 +7,7 @@ ML Algorithms,Prompt Engineering, Python Libraries,Analytical Skills,Problem Sol
 #**🌟 Projects**
 <br>
 **Verdant.Ai** : A real-time Agro-based dashboard for recommending the Fertilizer using Soil-data <br>& predicting the plant Diseases based on Image Processing using Python Libraries.<br>
-Net-Mirror : A Web-based movies & Shows reviewing system.<br><br>
+**Net-Mirror** : A Web-based movies & Shows reviewing system.<br><br>
 #📫 **Contact Me**
 <br>
 Email: absk.devopsmastero@gmail.com<br>
