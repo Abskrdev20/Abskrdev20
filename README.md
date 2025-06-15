@@ -1,13 +1,13 @@
 # Hello, I'm Abhishek Kumar! 👋
 I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and explore in the related fields.<br><br>
-#**🔧 Technologies & Tools**
+# **🔧 Technologies & Tools**
 <br>
 **Skills:**
 ML Algorithms,Prompt Engineering, Python Libraries,Analytical Skills,Problem Solving<br>Languages: Proficient in Python, Java, HTML, CSS, JS, SQL, C<br>Tools: Git, VS Code, Jupyter Notebook, Excel, Tableau, PowerBI<br><br>
 #**🌟 Projects**
 <br>
-**Verdant.Ai** : A real-time Agro-based dashboard for recommending the Fertilizer using Soil-data <br>& predicting the plant Diseases based on Image Processing using Python Libraries.<br>
-**Net-Mirror** : A Web-based movies & Shows reviewing system.<br><br>
+>>**Verdant.Ai** : A real-time Agro-based dashboard for recommending the Fertilizer using Soil-data <br>& predicting the plant Diseases based on Image Processing using Python Libraries.<br>
+>>**Net-Mirror** : A Web-based movies & Shows reviewing system.<br><br>
 #📫 **Contact Me**
 <br>
 Email: absk.devopsmastero@gmail.com<br>
@@ -22,5 +22,3 @@ Thanks for visiting my profile! 😊
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=Abskrdev20&icon=1&color=7)](https://visitcount.itsvg.in)
-
-
