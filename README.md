@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/e0b3a9ae-4ffc-4daa-91e8-78bcef48f3ad)
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Hello, I'm Abhishek Kumar! 👋
 
 I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and explore in the related fields.
