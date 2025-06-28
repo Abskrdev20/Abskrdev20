@@ -15,8 +15,6 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 - Email : absk.devopsmastero@gmail.com<br>
 - LinkedIn : (https://www.linkedin.com/in/absk-kr)<br>
 
-  Thanks for visiting my profile! 😊
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekkr3104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/absk-kr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absk.devopsmastero@gmail.com) 
 
