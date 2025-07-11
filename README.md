@@ -22,7 +22,6 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 <img src="https://skillicons.dev/icons?i=c,cpp,css,tailwind,java,js,html,python,react,flask,mysql,wordpress,figma,notion,linux,vscode,vite,git,github,vercel,netlify,anaconda,replit" />
 [![](https://visitcount.itsvg.in/api?id=Abskrdev20&icon=1&color=7)](https://visitcount.itsvg.in)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
 ### **Thanks for visiting my profile!**
