@@ -16,12 +16,13 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 - LinkedIn : (https://www.linkedin.com/in/absk-kr)<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekkr3104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/absk-kr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absk.devopsmastero@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekkr3104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/absk-kr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absk.devopsmastero@gmail.com)
+https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/instagram.svg
 
 ## 💻 Tech Stack :
 <img src="https://skillicons.dev/icons?i=c,cpp,css,tailwind,java,js,html,python,react,flask,mysql,wordpress,figma,notion,linux,vscode,vite,git,github,vercel,netlify,anaconda,replit" />
-[![](https://visitcount.itsvg.in/api?id=Abskrdev20&icon=1&color=7)](https://visitcount.itsvg.in)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
 ### **Thanks for visiting my profile!**
