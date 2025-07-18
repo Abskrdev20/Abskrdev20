@@ -41,6 +41,6 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 
 **_"This is just the beginning of my journey in the tech world, and I'm excited to grow, learn, and contribute to the amazing world of technology and artificial intelligence!"_**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Learning%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Learning%20%F0%9F%9A%80&fontSize=42&fontColor=000000&animation=twinkling&fontAlignY=75"/>
 
 </div>
