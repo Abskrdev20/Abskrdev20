@@ -29,8 +29,8 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 |:---------:|:-------------:|:-----------:|
 | ![](https://github-readme-stats.vercel.app/api?username=Abskrdev20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>| ![](https://nirzak-streak-stats.vercel.app/?user=Abskrdev20&theme=dark&hide_border=false)<br/>| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abskrdev20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Abskrdev20&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=Abskrdev20&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
