@@ -30,8 +30,8 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 | ![](https://github-readme-stats.vercel.app/api?username=Abskrdev20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>| ![](https://nirzak-streak-stats.vercel.app/?user=Abskrdev20&theme=dark&hide_border=false)<br/>| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abskrdev20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=Abskrdev20&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
-
+<img align="center" src="https://komarev.com/ghpvc/?username=Abskrdev20&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">    <a rel="noopener" href="https://docs.google.com/document/d/1RTyfkQMBEV_GbL-mFflqBzyR0wvK4fONkRLkHF-86ao/edit?usp=drive_link"><img align="center" src="https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Abhishek Kumar Resume"></a> 
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
