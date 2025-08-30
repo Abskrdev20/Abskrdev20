@@ -19,6 +19,9 @@ I'm a passionate about AI,ML,Data Science,Web Development and keen to learn and 
 <a href="[https://www.instagram.com/abhishekkr3104/]" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
 </a>
+<a href="https://www.linkedin.com/in/absk-kr/" target="blank">
+<img src="https://github.com/user-attachments/assets/aa5ddab4-2d40-45e1-9d3f-ee2364c3a75f" width="80">
+</a>
 </div>
 
 ## 💻 Tech Stack :
